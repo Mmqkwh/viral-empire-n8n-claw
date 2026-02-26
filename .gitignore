@@ -1,0 +1,12 @@
+node_modules/
+.wrangler/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+tmp/
+*.tar.gz
+*.bak
+*.backup
